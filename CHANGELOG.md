@@ -1,3 +1,6 @@
+## 0.1.7
+* Update project dependencies
+
 ## 0.1.6
 * Bluetooth can be activated on Android 13
 
